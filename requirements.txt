@@ -1,0 +1,41 @@
+# 야구 타격자세 분석기 - Python 의존성 패키지
+
+# 웹 프레임워크
+Flask==2.3.3
+Werkzeug==2.3.7
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+itsdangerous==2.1.2
+click==8.1.7
+blinker==1.6.3
+
+# 컴퓨터 비전 및 이미지 처리
+opencv-python==4.8.1.78
+mediapipe==0.10.7
+
+# 수치 계산 및 데이터 처리
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.1
+
+# 머신러닝 및 데이터 과학
+scikit-learn==1.3.0
+joblib==1.3.1
+
+# 데이터 시각화
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# 유틸리티
+requests==2.31.0
+urllib3==2.0.4
+tqdm==4.65.0
+
+# 개발 및 디버깅 (선택사항)
+pytest==7.4.0
+black==23.7.0
+flake8==6.0.0
+
+# 시스템 의존성 (필요시)
+# pillow==10.0.0  # 이미지 처리 추가 지원
+# psutil==5.9.5   # 시스템 모니터링

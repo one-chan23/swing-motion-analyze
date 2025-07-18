@@ -1,0 +1,19 @@
+{
+  "model_type": "RandomForestRegressor",
+  "features_count": 11,
+  "feature_names": [
+    "shoulder_balance",
+    "left_elbow_angle",
+    "right_elbow_angle",
+    "left_knee_angle",
+    "right_knee_angle",
+    "foot_distance",
+    "shoulder_rotation",
+    "hip_rotation",
+    "torso_angle",
+    "arm_symmetry",
+    "leg_symmetry"
+  ],
+  "created_date": "2025-07-18T09:11:03.015556",
+  "model_version": "1.0"
+}
